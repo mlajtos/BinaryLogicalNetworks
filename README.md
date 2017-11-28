@@ -4,10 +4,6 @@ Nodes connected layer by layer in a complete binary tree by logical operations f
 
 Work in progress.
 
-Author(s):
-
-Yue Dong (currently unemployed and organizationally unaffiliated)
-
 Yes, I am unemployed and doing this for free.
 
 Edit Nov 27 2017: I just started heavy chemo so please be patient.
