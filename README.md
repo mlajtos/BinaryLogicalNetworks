@@ -8,6 +8,8 @@ Yes, I am unemployed and doing this for free.
 
 Edit Nov 27 2017: I just started heavy chemo so please be patient.
 
+
+
 Credits:
-Reddit User /u/kjearns for his super insightful comment
-https://www.reddit.com/r/MachineLearning/comments/7fzmeo/r_binary_logical_networks_a_fundamentally/dqfl5ki/
+
+Reddit User /u/kjearns for his super insightful comment (https://www.reddit.com/r/MachineLearning/comments/7fzmeo/r_binary_logical_networks_a_fundamentally/dqfl5ki/)
